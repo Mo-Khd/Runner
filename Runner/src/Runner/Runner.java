@@ -76,7 +76,7 @@ public static void begin(){
             public void actionPerformed(ActionEvent e) {
             	Run.pause=true;
             	Sound.gamming.stop();
-                JOptionPane.showMessageDialog(null, "Coded By Mohamed Azhy");
+                JOptionPane.showMessageDialog(null, "Coded By Mohammed");
                 
             }
         });
